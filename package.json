@@ -1,0 +1,42 @@
+{
+  "name": "sequelize-derived-fields",
+  "version": "0.0.1",
+  "description": "Filter and order resultsets based on fields in associated models",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auxionize/sequelize-derived-fields.git"
+  },
+  "keywords": [
+    "sequelize",
+    "plugin",
+    "query",
+    "order",
+    "associations",
+    "derived"
+  ],
+  "author": {
+    "name": "Stefan Stefanov",
+    "email": "stefan.bg@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Auxionize/sequelize-derived-fields/issues"
+  },
+  "homepage": "https://github.com/Auxionize/sequelize-derived-fields#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "chai-properties": "^1.2.1",
+    "co-mocha": "^1.1.2",
+    "mocha": "^2.5.3",
+    "pg": "^5.0.0",
+    "sequelize": "^3.23.3"
+  }
+}
