@@ -1,6 +1,6 @@
 {
   "name": "sequelize-derived-fields",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Filter and order resultsets based on fields in associated models",
   "main": "index.js",
   "directories": {
